@@ -1,10 +1,10 @@
-kwejk.pl
-www.kwejk.pl
-wykop.pl
-www.wykop.pl
-9gag.com
-www.9gag.com
-allegro.pl
-www.allegro.pl
-olx.pl
-www.olx.pl
+127.0.0.1 kwejk.pl
+127.0.0.1 www.kwejk.pl
+127.0.0.1 wykop.pl
+127.0.0.1 www.wykop.pl
+127.0.0.1 9gag.com
+127.0.0.1 www.9gag.com
+127.0.0.1 allegro.pl
+127.0.0.1 www.allegro.pl
+127.0.0.1 olx.pl
+127.0.0.1 www.olx.pl
